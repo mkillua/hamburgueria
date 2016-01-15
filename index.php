@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+=======
 <!DOCTYPE html>
 <html>
 <head>
@@ -107,7 +111,7 @@
 			<img = src="img/camisa-xadrez.png" alt="camisa azul importada">
 			<div>
 			<h4> camisa jeans casual </h4>
-			<p> camisa jeans casual de slim </p>
+			<p> camisa jeans casual de slim fit </p>
 	
 		</div>
 	</figure>
@@ -137,3 +141,7 @@
     
 </body>
 </html>
+>>>>>>> master
+=======
+
+>>>>>>> c18b078f3126b781f222054d32c58e50dfa54e7e
