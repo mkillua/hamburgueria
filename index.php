@@ -1,9 +1,17 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+=======
 <!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<<<<<<< HEAD
+	<title>Matheus tem medo de mulher sim</title>
+=======
 	<title>Matheus tem medo de mulher</title>
+>>>>>>> a6b2c856522e8a3e96c729b707865bd519464000
 	<link rel="stylesheet" href="css/bootstrap.css">
 	
 	<meta name="viewport" content="width=device-width"/>
@@ -103,7 +111,7 @@
 			<img = src="img/camisa-xadrez.png" alt="camisa azul importada">
 			<div>
 			<h4> camisa jeans casual </h4>
-			<p> camisa jeans casual de slim </p>
+			<p> camisa jeans casual de slim fit </p>
 	
 		</div>
 	</figure>
@@ -133,3 +141,7 @@
     
 </body>
 </html>
+>>>>>>> master
+=======
+
+>>>>>>> c18b078f3126b781f222054d32c58e50dfa54e7e
