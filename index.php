@@ -4,6 +4,10 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<<<<<<< HEAD
+=======
+
+>>>>>>> marabesi
 	<title>Matheus tem medo de mulher</title>
 	<link rel="stylesheet" href="css/bootstrap.css">
 	<meta name="viewport" content="width=device-width"/>
@@ -123,5 +127,4 @@
     <script type="text/javascript" src="js/bootstrap.js"> </script>
 </body>
 </html>
-
 
