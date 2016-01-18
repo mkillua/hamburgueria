@@ -1,19 +1,12 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-=======
 <!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<<<<<<< HEAD
-	<title>Matheus tem medo de mulher sim</title>
-=======
+
 	<title>Matheus tem medo de mulher</title>
->>>>>>> a6b2c856522e8a3e96c729b707865bd519464000
 	<link rel="stylesheet" href="css/bootstrap.css">
-	
 	<meta name="viewport" content="width=device-width"/>
 	 <style media="screen">
        .navbar-header button {
@@ -35,7 +28,6 @@
 				<a href="#" class="navbar-brand">Modas </a>
 
 				<button class="navbar-toggle"type="button" data-target=".navbar-collapse" data-toggle="collapse">Menu</button>
-		
 			</div>
 			<div class="collapse navbar-collapse">
 				<ul class="nav navbar-nav">
@@ -60,8 +52,6 @@
 			</div>
 		</nav>
 	</header>
-	
- 
 	<main>
 		<!-- Banner -->
 		<div class="container-fluid">
@@ -85,11 +75,9 @@
 
 	</div>
 	<!-- fim do banner -->
-		
 		<h3 class="text-center"> Novidades</h3>
 
 	</div>
-	
 	<div class="col-md-4 thumbnail text-center">
 		<div>
 			<figure>
@@ -97,7 +85,6 @@
 			<div>
 			<h4> camisa azul importada </h4>
 			<p> camisa azul importada de qualidade </p>
-	
 		</div>
 	</figure>
 	<p> R$ 79,90 </p>
@@ -112,7 +99,6 @@
 			<div>
 			<h4> camisa jeans casual </h4>
 			<p> camisa jeans casual de slim fit </p>
-	
 		</div>
 	</figure>
 	<p> R$ 79,90 </p>
@@ -126,7 +112,6 @@
 			<div>
 			<h4> camisa xadrez roxa </h4>
 			<p> camisa roxa lenhador</p>
-	
 		</div>
 	</figure>
 	<p> R$ 79,90 </p>
@@ -134,14 +119,9 @@
 	</div>
 </div>
 	</main>
-	
 	<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
 	<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
     <script type="text/javascript" src="js/bootstrap.js"> </script>
-    
 </body>
 </html>
->>>>>>> master
-=======
 
->>>>>>> c18b078f3126b781f222054d32c58e50dfa54e7e
